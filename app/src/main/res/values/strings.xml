@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpaceX Reference</string>
+    <string name="count_repeat_count">Количество повторных использований первой ступени: %d</string>
+    <string name="mission_status">Статус миссии: %s</string>
+    <string name="success">Успешно</string>
+    <string name="failure">Провал</string>
+    <string name="launch_date">Дата запуска: %s</string>
+    <string name="mission_details">Детали: %s</string>
+    <string name="mission_date_time">Дата и время миссии: %s</string>
+    <string name="agency">Агенство: %s</string>
+    <string name="status">Статус: %s</string>
+    <string name="crew">Экипаж</string>
+    <string name="no_crew">Нет экипажа</string>
+</resources>
